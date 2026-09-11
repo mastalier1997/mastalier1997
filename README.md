@@ -6,7 +6,6 @@ Software developer working with JavaScript & TypeScript.
 - 🌱 Always learning new tools and patterns in the JS ecosystem
 - 👯 Open to collaborating on interesting projects
 - 💬 Ask me about JavaScript, TypeScript, or web development
-- ⚡ Fun fact: this README is written by Claude Code, on my behalf
 
 ## 🛠️ Tech Stack
 
